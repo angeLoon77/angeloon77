@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Hey, I'm Gabriel 👋</h1>
 
-<!--
-**angeLoon77/angeloon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p data-importer="text" align="left">💻 Self-taught programmer<br>🐍 Currently learning Python<br>🧠 Interested in software development, problem solving and technology<br>🎮 Gamer & tech enthusiast</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 data-importer="text" align="left">About Me</h2>
+
+###
+
+<p data-importer="text" align="left">I'm currently learning programming on my own, building my foundations in Python<br>and developing my problem-solving skills through personal projects.<br><br>I'm at the beginning of my journey in software development and I'm focused on<br>learning by building, experimenting, and understanding how things work.<br><br>> Learning by building.<br><br>## Spoken Languages<br><br>🇧🇷 Portuguese — Native<br>🇺🇸 English — B2 (Upper-Intermediate)</p>
+
+###
+
+<h2 data-importer="text" align="left">Languages & Technologies</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
