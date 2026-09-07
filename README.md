@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Self-taught programmer<br>🐍 Currently learning Python<br>🧠 Interested in software development, problem solving and technology<br>🎮 Gamer & tech enthusiast</p>
+<p data-importer="text" align="left">💻 Self-taught programmer<br>🐍 Currently learning Python<br>🧠 Interested in software development, problem solving and technology<br>💪 Bodybuilder & tech enthusiast</p>
 
 ###
 
