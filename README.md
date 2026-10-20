@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">🛡️ Software Engineering Student at ETEP<br>⚙️ Transitioning from Python into C++ Systems Development<br>🧠 Independent developer architecting Backbone (Custom Mobile Fitness Ecosystem)<br>💪 Bodybuilder & tech enthusiast</p>
+<p data-importer="text" align="left">🛡️ Software Engineering Student <br>⚙️ Transitioning from Python into C++ Systems Development<br>🧠 Independent developer architecting Backbone (Custom Mobile Fitness Ecosystem)<br>💪 Bodybuilder & tech enthusiast</p>
 
 ###
 
