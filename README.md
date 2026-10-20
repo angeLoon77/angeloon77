@@ -13,22 +13,30 @@ I'm a self-taught developer and Software Engineering student. I balance coding s
 
 > 💡 Learning by building.
 
-## Featured Project: Backbone
+## Featured Project
 
-**Backbone** is a workout tracker for Android that I'm building on my own (in development). Instead of typing each record by hand, you paste your whole workout as plain text, in the format I already use to log my training, and the app extracts everything automatically.
+<a href="https://github.com/angeLoon77/Backbone-APP">
+  <img src="https://raw.githubusercontent.com/angeLoon77/Backbone-APP/main/assets/icon.png" width="100" align="left" alt="Backbone icon" />
+</a>
+
+### [Backbone](https://github.com/angeLoon77/Backbone-APP)
+
+A workout tracker for Android and desktop that I'm building on my own (in development). Instead of typing each record by hand, you paste your whole workout as plain text, in the format I already use to log my training, and the app extracts everything automatically.
+
+<br clear="left" />
 
 **What it does**
 - Parses free-text workouts (exercises, sets, reps, weights, warm-up/failure/progression tags, one-sided exercises and cardio) with a custom regex-based parser
 - Detects personal records (PRs) automatically and keeps them per exercise
 - Stores exercises and PRs in a **SQLite** database
-- Runs on the phone as a compiled APK, with a PT/EN translation system
+- Runs on the phone as a compiled APK, with a PT/EN interface
 
 **What I learned building it**
 - Designing a parser and handling many edge cases (decimal weights, total vs. bar weight, one-sided reps)
 - Designing a relational schema (exercises and PRs tables with foreign keys)
 - Packaging a Python app for Android and fixing storage and layout problems on the device
 
-*Tech: Python, Flet, SQLite3, regex*
+*Tech: Python, Flet, SQLite3, regex* · [View the repository →](https://github.com/angeLoon77/Backbone-APP)
 
 ## Spoken Languages
 
