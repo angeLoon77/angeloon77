@@ -1,25 +1,12 @@
-<h1 data-importer="text" align="left">Hey, I'm Gabriel 👋</h1>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinval-gabriel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angeLoon77) 
 
-<p data-importer="text" align="left">💻 Self-taught programmer<br>🐍 Currently learning Python<br>🧠 Interested in software development, problem solving and technology<br>💪 Bodybuilder & tech enthusiast</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=angeloon77&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=angeloon77&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=angeloon77&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<h2 data-importer="text" align="left">About Me</h2>
-
-###
-
-<p data-importer="text" align="left">I'm currently learning programming on my own, building my foundations in Python<br>and developing my problem-solving skills through personal projects.<br><br>I'm at the beginning of my journey in software development and I'm focused on<br>learning by building, experimenting, and understanding how things work.<br><br>> Learning by building.<br><br>## Spoken Languages<br><br>🇧🇷 Portuguese — Native<br>🇺🇸 English — B2 (Upper-Intermediate)</p>
-
-###
-
-<h2 data-importer="text" align="left">Languages & Technologies</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
