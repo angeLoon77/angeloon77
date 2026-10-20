@@ -1,35 +1,45 @@
-<h1 data-importer="text" align="left">Hey, I'm Gabriel 👋</h1>
+<h1 align="left">Hey, I'm Gabriel 👋</h1>
 
-###
+<p align="left">
+🎓 Software Engineering student at ETEP<br>
+🐍 Building projects in Python, with SQLite and Flet<br>
+🔎 Looking for a software development internship<br>
+💪 Bodybuilder & tech enthusiast
+</p>
 
-<p data-importer="text" align="left">🛡️ Software Engineering Student <br>⚙️ Transitioning from Python into C++ Systems Development<br>🧠 Independent developer architecting Backbone (Custom Mobile Fitness Ecosystem)<br>💪 Bodybuilder & tech enthusiast</p>
+## About Me
 
-###
+I'm a self-taught developer and Software Engineering student. I balance coding sessions, training, and a full-time job. Since I started programming, I've focused on learning by building real projects instead of only following tutorials.
 
-<h2 data-importer="text" align="left">About Me</h2>
+> 💡 Learning by building.
 
-###
+## Featured Project: Backbone
 
-<p data-importer="text" align="left">I am an independent Software Engineering student balancing a rigorous daily routine of morning deep-work coding blocks, physical training, and a full-time evening career. After discovering my passion for programming, I dedicated myself to building high-performance systems from scratch.<br><br>My practical milestone highlights include architecting <b>Backbone</b>—a proprietary mobile application involving custom parsing logic, local data storage schema design via SQLite3, and navigating low-level Android SDK/NDK compilation environments to debug standalone binaries.<br><br>> Learning by building.</p>
+**Backbone** is a workout tracker for Android that I'm building on my own (in development). Instead of typing each record by hand, you paste your whole workout as plain text, in the format I already use to log my training, and the app extracts everything automatically.
 
-###
+**What it does**
+- Parses free-text workouts (exercises, sets, reps, weights, warm-up/failure/progression tags, one-sided exercises and cardio) with a custom regex-based parser
+- Detects personal records (PRs) automatically and keeps them per exercise
+- Stores exercises and PRs in a **SQLite** database
+- Runs on the phone as a compiled APK, with a PT/EN translation system
 
-<h2 data-importer="text" align="left">Spoken Languages</h2>
+**What I learned building it**
+- Designing a parser and handling many edge cases (decimal weights, total vs. bar weight, one-sided reps)
+- Designing a relational schema (exercises and PRs tables with foreign keys)
+- Packaging a Python app for Android and fixing storage and layout problems on the device
 
-###
+*Tech: Python, Flet, SQLite3, regex*
 
-<p data-importer="text" align="left">🇧🇷 Portuguese — Native<br>🇬🇧 English — B2/C1<br>🇩🇪 German — Beginner (Started October 2026 🚀)</p>
+## Spoken Languages
 
-###
+🇧🇷 Portuguese – Native<br>
+🇬🇧 English – B2<br>
+🇩🇪 German – Beginner (started October 2026 🚀)
 
-<h2 data-importer="text" align="left">Languages & Technologies</h2>
+## Languages & Technologies
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" height="40" alt="c++ logo" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" height="40" alt="sql database logo" />
-</div>
-
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
