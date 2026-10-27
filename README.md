@@ -3,7 +3,7 @@
 <p align="left">
 🎓 Software Engineering student at ETEP<br>
 🐍 Building projects in Python, with SQLite and Flet<br>
-🔎 Looking for a software development internship<br>
+🔎 Looking for a software development Opportunity<br>
 💪 Bodybuilder & tech enthusiast
 </p>
 
