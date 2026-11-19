@@ -21,7 +21,7 @@ I'm a self-taught developer and Software Engineering student. I balance my degre
 
 ### [Backbone (App)](https://github.com/angeLoon77/Backbone-APP) & [API](https://github.com/angeLoon77/Backbone-API)
 
-A workout tracker for Android and desktop that I'm building solo (currently v1.20a). Instead of typing each record by hand, you paste your whole workout as plain text—in the format I already use to log my training—and the app extracts everything automatically.
+A workout tracker for Android and desktop that I'm building solo (currently v1.31a). Instead of typing each record by hand, you paste your whole workout as plain text—in the format I already use to log my training—and the app extracts everything automatically.
 
 <br clear="left" />
 
